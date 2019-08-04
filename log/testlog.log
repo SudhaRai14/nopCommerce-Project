@@ -1,0 +1,157 @@
+2019-01-13 15:36:09,137 - ecommerce -INFO - URL opened
+2019-01-13 15:36:10,012 - ecommerce -INFO - Username Entered
+2019-01-13 15:36:10,285 - ecommerce -INFO - Password Entered
+2019-01-13 15:36:23,665 - ecommerce -INFO - Clicked on Login
+2019-01-13 15:36:26,695 - ecommerce -INFO - Clicked on logout
+2019-01-13 15:36:26,695 - ecommerce -INFO - Test Failed
+2019-01-13 19:09:24,193 - ecommerce -INFO - URL opened
+2019-01-13 19:09:25,030 - ecommerce -INFO - Username Entered
+2019-01-13 19:15:06,409 - ecommerce -INFO - URL opened
+2019-01-13 19:15:06,628 - ecommerce -INFO - Username Entered
+2019-01-13 19:15:06,747 - ecommerce -INFO - Password Entered
+2019-01-13 19:15:12,846 - ecommerce -INFO - Clicked on Login
+2019-01-13 19:16:49,883 - ecommerce -INFO - URL opened
+2019-01-13 19:16:50,084 - ecommerce -INFO - Username Entered
+2019-01-13 19:16:50,197 - ecommerce -INFO - Password Entered
+2019-01-13 19:17:05,926 - ecommerce -INFO - Clicked on Login
+2019-01-13 19:20:27,932 - ecommerce -INFO - URL opened
+2019-01-13 19:20:28,152 - ecommerce -INFO - Username Entered
+2019-01-13 19:20:28,274 - ecommerce -INFO - Password Entered
+2019-01-13 19:20:33,692 - ecommerce -INFO - Clicked on Login
+2019-01-13 19:20:36,382 - ecommerce -INFO - Clicked on logout
+2019-01-13 19:20:36,383 - ecommerce -INFO - Test passed
+2019-01-14 22:37:07,583 - eCommerce -INFO - URL opened
+2019-01-14 22:37:08,338 - eCommerce -INFO - Username Entered
+2019-01-14 22:37:08,480 - eCommerce -INFO - Password Entered
+2019-01-14 22:37:16,377 - eCommerce -INFO - Clicked on Login
+2019-01-14 22:37:19,182 - eCommerce -INFO - Clicked on logout
+2019-01-14 22:37:19,183 - eCommerce -INFO - Test passed
+2019-01-14 22:41:19,903 - eCommerce -INFO - URL opened
+2019-01-14 22:41:20,153 - eCommerce -INFO - Username Entered
+2019-01-14 22:41:20,275 - eCommerce -INFO - Password Entered
+2019-01-14 22:41:36,628 - eCommerce -INFO - Clicked on Login
+2019-01-14 22:41:40,099 - eCommerce -INFO - Clicked on logout
+2019-01-14 22:41:40,100 - eCommerce -INFO - Test passed
+2019-01-14 22:47:57,818 - eCommerce -INFO - URL opened
+2019-01-14 22:47:58,212 - eCommerce -INFO - Username Entered
+2019-01-14 22:47:58,347 - eCommerce -INFO - Password Entered
+2019-01-14 22:48:05,645 - eCommerce -INFO - Clicked on Login
+2019-01-14 22:50:20,814 - eCommerce -INFO - URL opened
+2019-01-14 22:50:21,063 - eCommerce -INFO - Username Entered
+2019-01-14 22:50:21,195 - eCommerce -INFO - Password Entered
+2019-01-14 22:50:26,152 - eCommerce -INFO - Clicked on Login
+2019-01-14 22:52:52,585 - eCommerce -INFO - URL opened
+2019-01-14 22:52:52,856 - eCommerce -INFO - Username Entered
+2019-01-14 22:52:52,998 - eCommerce -INFO - Password Entered
+2019-01-14 22:52:58,862 - eCommerce -INFO - Clicked on Login
+2019-01-14 22:54:21,959 - eCommerce -INFO - URL opened
+2019-01-14 22:54:22,190 - eCommerce -INFO - Username Entered
+2019-01-14 22:54:22,304 - eCommerce -INFO - Password Entered
+2019-01-14 22:54:27,247 - eCommerce -INFO - Clicked on Login
+2019-01-14 23:00:06,667 - eCommerce -INFO - URL opened
+2019-01-14 23:00:06,930 - eCommerce -INFO - Username Entered
+2019-01-14 23:00:07,069 - eCommerce -INFO - Password Entered
+2019-01-14 23:00:12,110 - eCommerce -INFO - Clicked on Login
+2019-01-14 23:00:14,815 - eCommerce -INFO - Clicked on logout
+2019-01-14 23:00:14,816 - eCommerce -INFO - Test passed
+2019-01-14 23:34:37,769 - eCommerce -INFO - URL opened
+2019-01-14 23:34:38,274 - eCommerce -INFO - Username Entered
+2019-01-14 23:34:38,427 - eCommerce -INFO - Password Entered
+2019-01-14 23:34:45,080 - eCommerce -INFO - Clicked on Login
+2019-01-14 23:40:17,662 - eCommerce -INFO - URL opened
+2019-01-14 23:40:18,048 - eCommerce -INFO - Username Entered
+2019-01-14 23:40:18,202 - eCommerce -INFO - Password Entered
+2019-01-14 23:40:23,984 - eCommerce -INFO - Clicked on Login
+2019-01-14 23:40:26,693 - eCommerce -INFO - Clicked on logout
+2019-01-14 23:40:26,693 - eCommerce -INFO - Test passed
+2019-01-15 06:51:37,712 - eCommerce -INFO - URL opened
+2019-01-15 06:51:40,064 - eCommerce -INFO - Username Entered
+2019-01-15 06:51:40,462 - eCommerce -INFO - Password Entered
+2019-01-15 06:51:51,588 - eCommerce -INFO - Clicked on Login
+2019-01-15 06:51:54,992 - eCommerce -INFO - Clicked on logout
+2019-01-15 06:51:54,993 - eCommerce -INFO - Test passed
+2019-01-15 08:23:33,923 - eCommerce -INFO - URL opened
+2019-01-15 08:23:35,113 - eCommerce -INFO - Username Entered
+2019-01-15 08:23:35,475 - eCommerce -INFO - Password Entered
+2019-01-15 08:24:13,822 - eCommerce -INFO - Clicked on Login
+2019-01-15 08:24:20,238 - eCommerce -INFO - Clicked on logout
+2019-01-15 08:24:20,238 - eCommerce -INFO - Test passed
+2019-02-13 14:01:23,550 - eCommerce -INFO - URL opened
+2019-02-13 14:01:24,737 - eCommerce -INFO - Username Entered
+2019-02-13 14:01:24,859 - eCommerce -INFO - Password Entered
+2019-02-13 14:01:35,073 - eCommerce -INFO - Clicked on Login
+2019-02-13 16:09:51,977 - eCommerce -INFO - URL opened
+2019-02-13 16:09:52,672 - eCommerce -INFO - Username Entered
+2019-02-13 16:09:52,809 - eCommerce -INFO - Password Entered
+2019-02-13 16:09:59,919 - eCommerce -INFO - Clicked on Login
+2019-02-13 16:10:02,904 - eCommerce -INFO - Clicked on logout
+2019-02-13 16:10:02,904 - eCommerce -INFO - Test passed
+2019-02-15 14:27:24,603 - eCommerce -INFO - URL opened
+2019-02-15 14:27:26,061 - eCommerce -INFO - Username Entered
+2019-02-15 14:27:26,209 - eCommerce -INFO - Password Entered
+2019-02-15 14:27:33,558 - eCommerce -INFO - Clicked on Login
+2019-02-15 14:27:36,415 - eCommerce -INFO - Clicked on logout
+2019-02-15 14:27:36,415 - eCommerce -INFO - Test passed
+2019-02-15 15:33:11,831 - eCommerce -INFO - URL opened
+2019-02-15 15:33:12,691 - eCommerce -INFO - Username Entered
+2019-02-15 15:33:12,887 - eCommerce -INFO - Password Entered
+2019-02-15 15:33:21,122 - eCommerce -INFO - Clicked on Login
+2019-02-15 15:33:24,296 - eCommerce -INFO - Clicked on logout
+2019-02-15 15:33:24,296 - eCommerce -INFO - Test passed
+2019-02-15 15:40:48,309 - eCommerce -INFO - URL opened
+2019-02-15 15:40:49,435 - eCommerce -INFO - Username Entered
+2019-02-15 15:40:49,864 - eCommerce -INFO - Password Entered
+2019-02-15 15:41:03,406 - eCommerce -INFO - Clicked on Login
+2019-02-15 15:43:50,873 - eCommerce -INFO - URL opened
+2019-02-15 15:43:51,138 - eCommerce -INFO - Username Entered
+2019-02-15 15:43:51,256 - eCommerce -INFO - Password Entered
+2019-02-15 15:43:56,239 - eCommerce -INFO - Clicked on Login
+2019-02-15 15:47:58,598 - eCommerce -INFO - URL opened
+2019-02-15 15:47:58,858 - eCommerce -INFO - Username Entered
+2019-02-15 15:47:58,988 - eCommerce -INFO - Password Entered
+2019-02-15 15:48:04,193 - eCommerce -INFO - Clicked on Login
+2019-02-15 15:50:06,198 - eCommerce -INFO - URL opened
+2019-02-15 15:50:06,495 - eCommerce -INFO - Username Entered
+2019-02-15 15:50:06,653 - eCommerce -INFO - Password Entered
+2019-02-15 15:50:12,576 - eCommerce -INFO - Clicked on Login
+2019-02-15 15:50:15,721 - eCommerce -INFO - Clicked on logout
+2019-02-15 15:50:15,722 - eCommerce -INFO - Test passed
+2019-02-15 15:50:26,871 - eCommerce -INFO - Username entered
+2019-02-15 15:50:26,990 - eCommerce -INFO - Password entered
+2019-02-15 15:50:32,539 - eCommerce -INFO - Clicked on login
+2019-02-15 15:50:37,675 - eCommerce -INFO - Clicked on logout
+2019-02-15 15:50:37,676 - eCommerce -INFO - Test passed
+2019-02-15 15:50:39,887 - eCommerce -INFO - Username entered
+2019-02-15 15:50:39,992 - eCommerce -INFO - Password entered
+2019-02-15 15:50:40,954 - eCommerce -INFO - Clicked on login
+2019-02-15 15:50:45,932 - eCommerce -INFO - Username entered
+2019-02-15 15:50:46,031 - eCommerce -INFO - Password entered
+2019-02-15 15:50:47,017 - eCommerce -INFO - Clicked on login
+2019-02-15 15:50:51,672 - eCommerce -INFO - Username entered
+2019-02-15 15:50:51,758 - eCommerce -INFO - Password entered
+2019-02-15 15:50:52,434 - eCommerce -INFO - Clicked on login
+2019-02-21 19:27:38,967 - eCommerce -INFO - User name is provided
+2019-02-21 19:27:39,115 - eCommerce -INFO - password is provided
+2019-02-21 19:27:45,265 - eCommerce -INFO - providing customer details....
+2019-02-21 19:32:58,996 - eCommerce -INFO - User name is provided
+2019-02-21 19:32:59,160 - eCommerce -INFO - password is provided
+2019-02-21 19:33:03,738 - eCommerce -INFO - providing customer details....
+2019-02-21 19:34:11,444 - eCommerce -INFO - User name is provided
+2019-02-21 19:34:11,572 - eCommerce -INFO - password is provided
+2019-02-21 19:34:16,776 - eCommerce -INFO - providing customer details....
+2019-02-21 19:36:50,196 - eCommerce -INFO - User name is provided
+2019-02-21 19:36:50,324 - eCommerce -INFO - password is provided
+2019-02-21 19:36:55,856 - eCommerce -INFO - providing customer details....
+2019-02-21 19:42:21,607 - eCommerce -INFO - User name is provided
+2019-02-21 19:42:21,726 - eCommerce -INFO - password is provided
+2019-02-21 19:42:26,654 - eCommerce -INFO - providing customer details....
+2019-02-21 19:44:28,894 - eCommerce -INFO - User name is provided
+2019-02-21 19:44:29,003 - eCommerce -INFO - password is provided
+2019-02-21 19:44:34,266 - eCommerce -INFO - providing customer details....
+2019-02-21 19:44:51,011 - eCommerce -INFO - validation started....
+2019-02-21 19:44:51,438 - eCommerce -INFO - test case passed....
+2019-02-27 21:07:48,074 - eCommerce -INFO - User name is provided
+2019-02-27 21:07:48,271 - eCommerce -INFO - password is provided
+2019-02-27 21:07:52,940 - eCommerce -INFO - providing customer role details....
+2019-02-27 21:08:00,737 - eCommerce -INFO - Validation Started
+2019-02-27 21:08:01,108 - eCommerce -INFO - test case passed

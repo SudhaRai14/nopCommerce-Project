@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="nopCommerce" duration-ms="28334" started-at="2019-02-27T15:37:33Z" finished-at="2019-02-27T15:38:01Z">
+    <groups>
+    </groups>
+    <test name="nopCommerce Test1" duration-ms="28334" started-at="2019-02-27T15:37:33Z" finished-at="2019-02-27T15:38:01Z">
+      <class name="com.nopCommerce.testCases.TC_AddCustomerRoleTest_004">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.nopCommerce.testCases.TC_AddCustomerRoleTest_004@4bee09]" name="setup" is-config="true" duration-ms="10520" started-at="2019-02-27T15:37:33Z" finished-at="2019-02-27T15:37:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="addNewCustomerRole()[pri:0, instance:com.nopCommerce.testCases.TC_AddCustomerRoleTest_004@4bee09]" name="addNewCustomerRole" duration-ms="16808" started-at="2019-02-27T15:37:44Z" finished-at="2019-02-27T15:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomerRole -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nopCommerce.testCases.TC_AddCustomerRoleTest_004@4bee09]" name="tearDown" is-config="true" duration-ms="656" started-at="2019-02-27T15:38:01Z" finished-at="2019-02-27T15:38:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopCommerce.testCases.TC_AddCustomerRoleTest_004 -->
+    </test> <!-- nopCommerce Test1 -->
+  </suite> <!-- nopCommerce -->
+</testng-results>
